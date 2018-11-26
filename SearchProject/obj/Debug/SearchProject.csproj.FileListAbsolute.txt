@@ -1,0 +1,10 @@
+C:\Users\Alia\source\repos\SearchProject\SearchProject\bin\Debug\SearchProject.exe.config
+C:\Users\Alia\source\repos\SearchProject\SearchProject\bin\Debug\SearchProject.exe
+C:\Users\Alia\source\repos\SearchProject\SearchProject\bin\Debug\SearchProject.pdb
+C:\Users\Alia\source\repos\SearchProject\SearchProject\obj\Debug\SearchProject.csprojAssemblyReference.cache
+C:\Users\Alia\source\repos\SearchProject\SearchProject\obj\Debug\SearchProject.frmSearch.resources
+C:\Users\Alia\source\repos\SearchProject\SearchProject\obj\Debug\SearchProject.Properties.Resources.resources
+C:\Users\Alia\source\repos\SearchProject\SearchProject\obj\Debug\SearchProject.csproj.GenerateResource.cache
+C:\Users\Alia\source\repos\SearchProject\SearchProject\obj\Debug\SearchProject.csproj.CoreCompileInputs.cache
+C:\Users\Alia\source\repos\SearchProject\SearchProject\obj\Debug\SearchProject.exe
+C:\Users\Alia\source\repos\SearchProject\SearchProject\obj\Debug\SearchProject.pdb
